@@ -1,0 +1,51 @@
+{
+    "pro1": {
+        "id":1,
+        "name": "Cake Maker Portfolio",
+        "image": {
+            "img1": "https://raw.githubusercontent.com/ishara-madu/Cake-Girl---Cake-Maker-Portfolio/refs/heads/main/screenshots/home.png",
+            "img2": "https://raw.githubusercontent.com/ishara-madu/Cake-Girl---Cake-Maker-Portfolio/refs/heads/main/screenshots/contact.png"
+        },
+        "description": "This is a simple portfolio website designed to showcase to cake-making talents. Built with JavaScript, HTML, CSS, and jQuery, this fully responsive site looks great on all devices. Highlight your unique cake designs, share your baking journey, and attract new clients with this user-friendly platform.",
+        "link": "https://tailwindcss.com/docs/background-color"
+    },
+    "pro2": {
+        "id":2,
+        "name": "Simple CRUD Operation with  PHP",
+        "image": {
+            "img1": "https://raw.githubusercontent.com/ishara-madu/CRUD-Operation-PHP/refs/heads/main/screenshots/interface.png"
+        },
+        "description": "very simple crud operation in using html css and php",
+        "link": "https://tailwindcss.com/docs/background-color"
+    },
+    "pro3": {
+        "id":3,
+        "name": "Mug Printing E-Commerce Website",
+        "image": {
+            "img1": "src/assets/test2.jpeg",
+            "img2": "src/assets/testimg.png"
+        },
+        "description": "An e-commerce platform where users can upload images to customize and order printed mugs. The site includes a simple and intuitive interface, automated order processing, and a secure payment gateway for easy transactions.",
+        "link": "https://tailwindcss.com/docs/background-color"
+    },
+    "pro4": {
+        "id":4,
+        "name": "Mug Printing E-Commerce Website",
+        "image": {
+            "img1": "src/assets/testimg.png",
+            "img2": "src/assets/testimg.png"
+        },
+        "description": "An e-commerce platform where users can upload images to customize and order printed mugs. The site includes a simple and intuitive interface, automated order processing, and a secure payment gateway for easy transactions.",
+        "link": "https://tailwindcss.com/docs/background-color"
+    },
+    "pro5": {
+        "id":5,
+        "name": "Mug Printing E-Commerce Website",
+        "image": {
+            "img1": "src/assets/testimg.png",
+            "img2": "src/assets/testimg.png"
+        },
+        "description": "An e-commerce platform where users can upload images to customize and order printed mugs. The site includes a simple and intuitive interface, automated order processing, and a secure payment gateway for easy transactions.",
+        "link": "https://tailwindcss.com/docs/background-color"
+    }
+}

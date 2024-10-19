@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruge+Boogie&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imgwrap:hover + .imgcontent{
+    scale: 1.01;
+}
+/* Hide scrollbar for WebKit browsers like Safari and Chrome */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge, and Firefox */
+  .scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  /* Forcing the scrollbar to stay hidden on macOS */
+  html, body, .scrollbar-hide {
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+      scroll-behavior: smooth;
+  }
+
+
+  @keyframes complexAnimation {
+    0% {
+      margin-top: 0px;
+      bottom:20px;
+    }
+    10% {
+      margin-top: 5px;
+      bottom:25px;
+    }
+    100%{
+      margin-top: 10px;
+      bottom: 9px;
+    }
+  }
+  
+  .animate-alignment {
+    animation: complexAnimation 1s ease-in-out infinite;
+  }
