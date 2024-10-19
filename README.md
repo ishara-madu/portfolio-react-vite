@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 # portfolio-website-react-vite
 # Portfolio Site
 
-![Portfolio Image](src/assets/portfolio.png)
+![Portfolio Image](src/assets/home.png)
 
 Welcome to my portfolio site! This project showcases my skills, projects, and ways to contact me.
 
