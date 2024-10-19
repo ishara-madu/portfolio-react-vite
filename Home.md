@@ -1,6 +1,6 @@
 # Home Page
 
-![Welcome Image](assets/home.png)
+![Welcome Image](src/assets/home.png)
 
 Welcome to my portfolio site! Here, you'll find all the projects I've worked on, my skills, and how to get in touch with me.
 

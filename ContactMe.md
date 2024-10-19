@@ -1,6 +1,6 @@
 # Contact Me
 
-![Contact Image](assets/contact.png)
+![Contact Image](src/assets/contact.png)
 
 I’d love to hear from you! Whether you have a question, a project in mind, or just want to connect.
 

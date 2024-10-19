@@ -1,6 +1,6 @@
 # Skills
 
-![Skills Image](assets/skills.png)
+![Skills Image](src/assets/skills.png)
 
 ## Technical Skills
 - **Languages**: JavaScript, PHP, HTML, CSS

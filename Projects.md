@@ -1,6 +1,6 @@
 # Projects
 
-![Projects Image](assets/projects.png)
+![Projects Image](src/assets/projects.png)
 
 Here are some of my recent projects:
 
